@@ -10,5 +10,5 @@ Link to playstore below
 
 
 
-![playstoreicon](/storage/emulated/0/Pictures/_959c47ab-a1ff-4074-9c9b-b147939eaad0~2.jpeg)
+![playstoreicon](https://github.com/AaronRM2003/Game-SpaceRace/assets/133229722/b82e5cc8-eadd-4161-9058-18a5e74d9594)
 
